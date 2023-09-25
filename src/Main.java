@@ -5,3 +5,4 @@ public class Main {
         System.out.println("Lab 1 Java");
     }
 }
+
